@@ -6,11 +6,6 @@ Bacterial genome assembly & annotation
 
 ### Overview
 
-Brief description on presentation...
+Workshop presentation discussing the basics of bacterial genome sequences, assembly, and annotation. Primarily uses Illumina data and SPAdes assembler, but touches on PacBio and Nanopore sequencing.
 
-- **Presentation**: _link to follow_
-
-### Data/Code
-
-Information about data/code goes here - can include information about data
-source, and how to use any code examples provided in the repo.
+- **Presentation**: PDF File in this folder, Video available on Youtube at [https://youtu.be/WhcqfHP94Fo](https://www.youtube.com/watch?v=WhcqfHP94Fo)
